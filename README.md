@@ -38,11 +38,54 @@ Here are some example of files and folder that you might want to ignore in a Git
 
  <b> Discussions:- </b> Github provides a way for developers to discuss theri code and ask questions. This helps to promote colloboration and knowledge sharing.  <br>
 
- <b> Some of the platforms that provide the same functionality similar to github can be:-   <br>
+ <b> Some of the platforms that provide the same functionality similar to github can be:-  </b>   <br>
       . GitLab      <br>
       . BitBucket   <br>
       . Source Forge    <br>
       . Launchpad      <br>
+
+ <b> Question.5:- Describe the process of contributing to any open-source project on Github in a step-by-step manner.</b> <br>
+
+ <b>Solution:-  </b> To contribute to any Project on Github, You can follow these Steps:  <br>
+ 
+ <b> 1. Find a project to contribute to:- </b>  There are millions of projects on Github, so you should be able to find one that interests you and that you have the skills to contribute to. You can search for projects by keyword, language, or topic.  <br>
+
+ <b> 2. Read the project's contribution guidlines:- </b> Most projects have a contribution guidlines documents that explain how to contribute to. You can search for projects by keyword, language, or topic.<br>
+
+ <b> 3. Create a fork of the project:-  </b> A fork is a copy of the project that you can make changes to without affection the main codebase. To create a fork, click the fork button on the project's page. <br>
+
+ <b> 4. Clone the fork to your local computer:- </b> Once you have forked the project, You need to clone it to your local computer. This will create a copy of the project on your hard drive that you ca work on.  <br>
+
+ <b> 5. Make Your Changes:- </b> Make the changes to the code that you want to contribute. Be sure to follow the projects's contibution guidlines and to test your changes thoroughly. <br>
+
+ <b> 6. Commit your changes:- </b> Once you are happy with your changes, commit them to your local repository. This will create a snapshot of the code at that point in time.  <br>
+
+ <b> 7. Push your changes to your fork:- </b> Once  you have committed your changes, push them to your fork on Github This will make your changes available to other developers.  <br>
+ 
+ <b> 8. Create a pull request :-  </b> A pull request is a way to request that your changes ba merged into tha main codebase. To create a pull request button on your fork's page. <br>
+  
+ <b> 9. Wait for your pull request to be reviewed:- </b> Other developers will review your changes and provide feedback. Once your changes are approved, they will be merged into the main codebase. <br>
+
+
+ <b> Question.6:- Deploy tailwind projects names Youtube, slack, and Gamil clones on Github pages and share the deplayed link of those three. Expected output - Live hosted URL Link of your deployed reslective website with Github pages.  </b>  <br>
+
+ <b> Solution:- </b> 
+
+ YouTube Clone:-   
+ 
+ Slack home page clone:-
+
+ Gamil clones- Gmail- 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
  
 
 
